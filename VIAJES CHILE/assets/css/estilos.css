@@ -1,0 +1,27 @@
+
+p{
+    color:#fff;
+}
+footer{
+    background-color: aqua;
+
+}
+h6{
+margin-left: 250px;
+padding-top: 20px;
+}
+#navbarNav{
+    margin-right: 60px;
+   
+}
+.navbar-brand{
+    margin-left: 100px;
+    
+}
+.enviar{
+    color:#fff;
+    background-color:aqua;
+    text-decoration:none ;
+}
+
+
